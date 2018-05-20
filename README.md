@@ -1,2 +1,2 @@
-# Faculty
-Faculty projects&homeworks
+# Faculty projects&homeworks
+
